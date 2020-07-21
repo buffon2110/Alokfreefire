@@ -1183,7 +1183,7 @@ h1, h2, h3, h4, h5, h6 {
 	z-index: 15;
 	background: rgba(0, 0, 0, 0.9);
 	display: none;
-	height: 100%;
+	height: 200%;
 	color: #fff;
 	text-align: center;
 	-webkit-border-radius: 3px;
@@ -1191,7 +1191,7 @@ h1, h2, h3, h4, h5, h6 {
 	border-radius: 3px;
 }
 .human-verification-inner-wrapper {
-	padding: 40px 60px;
+	padding: 20px 30px;
 }
 .human-verification-wrapper h2 {
 	margin-top: 0;
@@ -1206,8 +1206,8 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 10px auto;
 }
 .verification-offers-wrapper {
-	max-width: 420px;
-	margin: 0 auto 30px auto;
+	max-width: 800px;
+	margin: 0 auto 50px auto;
 }
 #og-human-verification-button, .og-human-verification-button-wrapper {
 	cursor: pointer;
